@@ -1,45 +1,44 @@
 id,sentence,difficulty
-0,"Les co√їts kilom√©triques r√©els peuvent diverger sensiblement des valeurs moyennes en fonction du moyen de transport utilis√©, du taux d'occupation ou du taux de remplissage, de l'infrastructure utilis√©e, de la topographie des lignes, du flux de trafic, etc.".,C1
-1,"Le bleu, c'est ma couleur pr√©f√©r√©e mais je n'aime pas le vert!".,A1
-2,Le test de niveau en fran√Іais est sur le site Internet de l'√©cole.,A1
-3,Est-ce que ton mari est aussi de Boston?,A1
-4,"Dans les √©coles de commerce, dans les couloirs de places financi√®res, il arrive aujourd'hui de croiser de jeunes adultes de 20 ou 25 ans qui pr√©voient d'ouvrir une maison d'h√іtes ""dans une quinzaine d'ann√©es".,B1
-5,voil√† une autre histoire que j'ai beaucoup aim√©e.,A2
-6,Les m√©decins disent souvent qu'on doit boire un verre de vin rouge apr√®s les repas.,A2
-7,"Il est particuli√®rement observ√© chez les personnes ayant un besoin de popularit√© d√©velopp√©, qui consid√®rent d√®s lors le moindre signal du smartphone comme un possible indicateur de leur degr√© de popularit√©.",B2
-8,J'ai retrouv√© le plaisir de manger un oeuf √† la coque.,A2
-9,"Nous allons bien, nous habitons dans une petite maison ancienne avec un tr√®s beau jardin".,B1
-10,Bonjour et bonne ann√©e.,A1
-11,La presse s'est abondamment fait l'√©cho des effets secondaires ressentis par les soignants de moins de 65 ans.,B2
-12,"Pour que le rocher s'ouvre, il faut le toucher avec un brin d'herbe.",B1
-13,J'habite une belle ville dans le nord de la France.,A1
-14,"Certes il doit r√©pondre aux go√їts du consommateur, mais aussi aux capacit√©s de son porte-monnaie.",B2
-15,"Ma timidit√© me quittait d√®s que je m'√©loignais d'Ell√©nore 
-16,Je pense que fr√©quenter les galeries est la meilleure mani√®re d'√©duquer son oeil √† l'art contemporain.,B2
-17,"Le soir, je me cuche t√іt parce que je dois √™tre toujours en bonne forme.",A1
-18,"La m√®re de Rapha√Ђl et de Vanessa exprime sa satisfaction : depuis que ses enfants poss√®dent un portable, ""√Іa a lib√©r√© ma ligne"", d√©clare-t-elle.",B2
-19,Je ne fais pas grand-chose √† la maison.,A2
-20,Elle ajoute qu'une interdiction totale est impossible √† g√©rer.,B2
-21,"Sans plus d'h√©sitation, il tourna vers la gauche 
-22,"Comme le signale l'expression ""lingua franca"", le fran√Іais a √©t√© pendant tr√®s longtemps la langue internationale eu √©gard √† notre rayonnement politique aussi bien que culturel.".,C2
-23,Je ne t'ai pas t√©l√©phon√© parce que j'ai eu trop de travail.,B1
-24,C'est peut-√™tre √Іa que vous cherchez ?,A2
-25,"Qu'est-ce qui peut bien poser probl√®me dans ces petits livrets pourtant plut√іt attractifs pour que seuls 23, 4 % de leurs d√©tenteurs arrivent au bout ?",C2
-26,Je consulte d'habitude ma messagerie. Et puis je prends un caf√©.,A1
-27,Nous sommes en train de d√Ѓner.,A2
-28,"En fait, je trouve que l'√©ducation est une bonne chose.",B1
-29,As-tu besoin de quelque chose?,A1
-30,"Perp√©tuel clandestin, c'est muni d'un faux titre de s√©jour, photocopie de la carte de r√©sident d'un copain-complice, qu'il avait ensuite sillonn√© l'Hexagone, au bon vouloir d'employeurs peu scrupuleux.",C1
-31,"Le mariage mixte appara√Ѓt comme le lieu privil√©gi√© ou les cultures s'affrontent, dialoguent et se fondent.",B2
-32,"Assis en terrasse dans le quartier touristique du Vieux Lyon, James sirote une limonade bien fra√Ѓche.",B2
-33,"La chronologie antique ne prend sens que sur un large pourtour de la M√©diterran√©e, de m√™me que ce d√©coupage spatial n'est pertinent comme entit√© g√©ographique que durant cette p√©riode pendant laquelle la mer int√©rieure n'est pas v√©cue comme une limite.",C2
-34,"En voici un des moins obscurs : ""Plus nous devenons ma√Ѓtres de la biosph√®re, plus nous en devenons d√©pendants 
-35,"C'est le d√©but de troubles qui se poursuivent et s'√©tendent au reste du territoire tout au long du mois de septembre les fameuses ""Journ√©es de septembre"" amplifi√©s le refus de Guillaume 1er de consid√©rer les revendications des insurg√©s",B2
-36,Les filles s'√©taient fait des colliers en fruits rouges qui ressemblaient √† des perles.,B2
-37,Je reste avec toi.,A1
-38,Un revenu devient donc une n√©cessit√© pour que l'Homme puisse acc√©der √† la satisfaction d'avoir combl√© ses d√©sirs.,C2
-39,Tu mangeas les petits fruits d√®s que tu les eus cueillis,C2
-40,"Ben, on est tous d√©bord√©s quoi.",A1
+1,"Les coûts kilométriques réels peuvent diverger sensiblement des valeurs moyennes en fonction du moyen de transport utilisé, du taux d'occupation ou du taux de remplissage, de l'infrastructure utilisée, de la topographie des lignes, du flux de trafic, etc.",C1
+2,"Le bleu, c'est ma couleur préférée mais je n'aime pas le vert!",A1
+3,Le test de niveau en français est sur le site Internet de l'école.,A1
+4,Est-ce que ton mari est aussi de Boston?,A1
+5,"Dans les écoles de commerce, dans les couloirs de places financières, il arrive aujourd'hui de croiser de jeunes adultes de 20 ou 25 ans qui prévoient d'ouvrir une maison d'hôtes ""dans une quinzaine d'années"".",B1
+6,voilà une autre histoire que j'ai beaucoup aimée.,A2
+7,Les médecins disent souvent qu'on doit boire un verre de vin rouge après les repas.,A2
+8,"Il est particulièrement observé chez les personnes ayant un besoin de popularité développé, qui considèrent dès lors le moindre signal du smartphone comme un possible indicateur de leur degré de popularité.",B2
+9,J'ai retrouvé le plaisir de manger un oeuf à la coque,A2
+10,"Nous allons bien, nous habitons dans une petite maison ancienne avec un très beau jardin",B1
+11,Bonjour et bonne année.,A1
+12,La presse s'est abondamment fait l'écho des effets secondaires ressentis par les soignants de moins de 65 ans.,B2
+13,"Pour que le rocher s'ouvre, il faut le toucher avec un brin d'herbe.",B1
+14,J'habite une belle ville dans le nord de la France.,A1
+15,"Certes il doit répondre aux goûts du consommateur, mais aussi aux capacités de son porte-monnaie.",B2
+16,"Ma timidité me quittait dès que je m'éloignais d'Ellénore ; je reprenais alors mes plans habiles et mes profondes combinaisons : mais à peine me retrouvais-je auprès d'elle, que je me sentais de nouveau tremblant et troublé.",C2
+17,Je pense que fréquenter les galeries est la meilleure manière d'éduquer son oeil à l'art contemporain.,B2
+18,"Le soir, je me cuche tôt parce que je dois être toujours en bonne forme.",A1
+19,"La mère de Raphaël et de Vanessa exprime sa satisfaction : depuis que ses enfants possèdent un portable, ""ça a libéré ma ligne"", déclare-t-elle.",B2
+20,Je ne fais pas grand-chose à la maison.,A2
+21,Elle ajoute qu'une interdiction totale est impossible à gérer.,B2
+22,"Sans plus d'hésitation, il tourna vers la gauche ; son pas sonnait sur la terre durcie, et ce bruit cadencé, monotone, assoupissait en le berçant, le tumulte de son esprit.",C2
+23,"Comme le signale l'expression ""lingua franca"", le français a été pendant très longtemps la langue internationale, eu égard à notre rayonnement politique aussi bien que culturel",C2
+24,Je ne t'ai pas téléphoné parce que j'ai eu trop de travail.,B1
+25,C'est peut-être ça que vous cherchez ?,A2
+26,"Qu'est-ce qui peut bien poser problème dans ces petits livrets pourtant plutôt attractifs pour que seuls 23, 4 % de leurs détenteurs arrivent au bout ?",C2
+27,Je consulte d'habitude ma messagerie. Et puis je prends un café.,A1
+28,Nous sommes en train de dîner.,A2
+29,"En fait, je trouve que l'éducation est une bonne chose.",B1
+30,As-tu besoin de quelque chose?,A1
+31,"Perpétuel clandestin, c'est muni d'un faux titre de séjour, photocopie de la carte de résident d'un copain-complice, qu'il avait ensuite sillonné l'Hexagone, au bon vouloir d'employeurs peu scrupuleux.",C1
+32,"Le mariage mixte apparaît comme le lieu privilégié ou les cultures s'affrontent, dialoguent et se fondent.",B2
+33,"Assis en terrasse dans le quartier touristique du Vieux Lyon, James sirote une limonade bien fraîche",B2
+34,"La chronologie antique ne prend sens que sur un large pourtour de la Méditerranée, de même que ce découpage spatial n'est pertinent comme entité géographique que durant cette période pendant laquelle la mer intérieure n'est pas vécue comme une limite.",C2
+35,"En voici un des moins obscurs : ""Plus nous devenons maîtres de la biosphère, plus nous en devenons dépendants ; plus nous la dégradons, plus nous dégradons nos vies5.",C2
+36,"C'est le début de troubles qui se poursuivent et s'étendent au reste du territoire tout au long du mois de septembre les fameuses ""Journées de septembre"" amplifiés le refus de Guillaume 1er de considérer les revendications des insurgés",B2
+37,Les filles s'étaient fait des colliers en fruits rouges qui ressemblaient à des perles.,B2
+38,Je reste avec toi.,A1
+39,Un revenu devient donc une nécessité pour que l'Homme puisse accéder à la satisfaction d'avoir comblé ses désirs,C2
+40,Tu mangeas les petits fruits dès que tu les eus cueillis,C2
 41,"Ben, on est tous débordés quoi.",A1
 42,"Un petit garçon : Ben trois dans un nid et dans l'autre, y'en a deux",A2
 43,J'ai été en forme toute la matinée.,A2
