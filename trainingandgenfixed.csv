@@ -5891,3 +5891,380 @@ id,sentence,difficulty
 5890,Vous regardez un match.,A1
 5891,Ils visitent un musée.,A1
 5892,Ma sœur est docteure.,A1
+5893,Mon frère est grand.,A1
+5894, "Le distributeur d'eau est en panne.",A1
+5895, "Peut-on réparer la machine à café ce matin ?",A1
+5896, "Bonjour, j'ai un souci avec mon appareil photo.",A1
+5897, "Ces réunions semblent interminables.",A1
+5898, "Ce n'est pas assez solide. Trop souple.",A1
+5899, "Voilà mon espace de travail.",A1
+5900, "Cet endroit, c'est le bureau du directeur.",A1
+5901, "Je planifie une sortie avec mes amis.",A1
+5902, "Ce week-end, je reste avec ma famille.",A1
+5903, "Mon mobile est dans la poche de mon manteau.",A1
+5904, "On a un problème de réseau.",A1
+5905, "Un réparateur va vous appeler sous peu.",A1
+5906, "Je vais vous faire une coupe de cheveux.",A1
+5907, "Je propose ces livres à la vente.",A1
+5908, "Je m'occupe de la location de ces logements.",A1
+5909, "Elle ne veut pas trop travailler.",A1
+5910, "Julie a une sœur nommée Laura.",A1
+5911, "Son appartement est loin du campus.",A1
+5912, "Elle aime son quartier résidentiel.",A1
+5913, "Elle partage un appart avec deux colocataires.",A1
+5914, "Julie passe quelques semaines à Lausanne.",A1
+5915, "L'instructeur de voile est sympathique.",A1
+5916, "Cette histoire est différente d'une romance italienne.",A1
+5917, "Il a étudié à Marseille avant d'aller à Genève.",A1
+5918, "Né en Grèce, il a écrit de nombreux romans.",A1
+5919, "Le français est parlé dans plusieurs pays.",A1
+5920, "Il existe de nombreux pays où l'on parle français.",A1
+5921, "Les Français préfèrent souvent parler leur propre langue.",A1
+5922, "Je vis au Niger, et toi, où habites-tu ?",A1
+5923, "Ma ville natale est Toronto.",A1
+5924, "Je suis originaire de Berne.",A1
+5925, "Paul a le contact de Marie.",A1
+5926, "Elle fait carrière dans la musique.",A1
+5927, "Le sport est ma passion.",A1
+5928, "Je m'appelle Dioke, je suis malien et passionné de peinture.",A1
+5929, "Son nom est Carole Dupré.",A1
+5930, "À 23 ans, j'apprécie la lecture et parle chinois.",A1
+5931, "Elle s'appelle Mariam Doumbia.",A1
+5932, Elle chante et vient du Mali.,A1
+5933, Ensemble, Amadou et elle forment un duo.,A1
+5934, Charline Vanhoenacker exerce le métier de journaliste.,A1
+5935, "Elle vient de Belgique.",A1
+5936, "Bienvenue à notre réunion internationale de bénévoles.",A1
+5937, "Je m'appelle Lien et habite à Hanoi, Vietnam.",A1
+5938, "L'école propose des cours de français.",A1
+5939, "Il y a aussi des leçons de portugais.",A1
+5940, "Le test de français est disponible sur notre site web.",A1
+5941, "Les étudiants internationaux ont cours 10 heures par semaine.",A1
+5942, "Je commence tout juste à apprendre.",A1
+5943, "Mon cours d'espagnol débute le 9 janvier.",A1
+5944, "Thibault Mercier et Claire Dubois, la responsable, nous ont reçus avec hospitalité, en dépit de la présence d'un groupe de touristes qui se régalait bruyamment.",C2
+5945, "L'important est que les enfants trouvent du plaisir à apprendre tout en jouant.",C2
+5946, "Pendant l'été, le français et les mathématiques sont souvent les matières les plus révisées.",C2
+5947, "Un auteur propose une approche ludique pour améliorer la maîtrise de la langue, séduisant les jeunes avec des jeux de mots innovants.",C2
+5948, "Les enfants peuvent s'amuser avec des jeux de langage sans même utiliser un crayon.",C2
+5949, "On pense souvent que les enfants jouent alors qu'en réalité, ils apprennent.",C2
+5950, "Des histoires classiques où la grammaire et le vocabulaire sont présentés de manière ludique restent populaires.",C2
+5951, "Certains auteurs ont exploré des approches créatives pour enseigner la grammaire et le style.",C2
+5952, "Pour cet auteur, la langue stimule non seulement le cerveau mais aussi les sens visuels et auditifs.",C2
+5953, "Selon cet éducateur expérimenté, les parents négligent parfois des méthodes d'apprentissage simples mais efficaces.",C2
+5954, "Il souligne l'importance des comptines pour développer l'oreille linguistique dès le plus jeune âge.",C2
+5955, "Il insiste sur le fait que la construction de phrases élaborées et l'apprentissage de la musicalité de la langue doivent commencer tôt.",C2
+5956, "Il est essentiel que les enfants révisent régulièrement, mais pas de manière excessive.",C2
+5957, "L'idéal est de connaître les points faibles de l'enfant pour cibler les révisions.",C2
+5958, "Reprendre les leçons non comprises n'est pas toujours la meilleure méthode.",C2
+5959, "Si les parents reproduisent l'école à la maison, cela peut être contre-productif.",C2
+5960, "Il est inutile de forcer les enfants à réviser des matières qu'ils n'aiment pas.",C2
+5961, "Une enseignante suggère des approches alternatives pour les révisions.",C2
+5962, "Les parents devraient répondre aux besoins spécifiques de leurs enfants.",C2
+5963, "Des études montrent que des révisions régulières sont plus bénéfiques que des sessions intensives.",C2
+5964, "Il est conseillé de ne pas surcharger les enfants de révisions quotidiennes.",C2
+5965, "Réviser une fois par semaine est souvent suffisant pour maintenir les acquis.",C2
+5966, "Les révisions modérées permettent de profiter pleinement des vacances.",C2
+5967, "Une table ronde réunit des experts en robotique pour discuter de l'avenir de cette technologie.",C2
+5968, "Les robots suscitent à la fois fascination et inquiétude parmi le public.",C2
+5969, "Le terme 'robot' a été inventé par un dramaturge tchèque et symbolise le travail forcé.",C2
+5970, "Il existe un mythe répandu que les robots remplaceront les humains.",C2
+5971, "La science-fiction a souvent présenté des robots aux capacités extraordinaires.", C2
+5972, "Les robots peuvent nous aider dans des tâches difficiles, mais il y a une crainte de les voir dominer notre vie.",C2
+5973, "La contribution des parents à l'apprentissage ne doit pas se limiter à la répétition des leçons.",C2
+5974, Est-ce que le cerveau et les jeux de plage partagent une connexion insoupçonnée ?,C2
+5975, Les parents, soucieux des acquis scolaires, hésitent à laisser le soleil et la mer effacer les connaissances en mathématiques et en français.,C2
+5976, Pour préserver les acquis pendant l'été, les parents investissent dans des cahiers de vacances pour un coût moyen.,C2
+5977, Ces cahiers de vacances, très répandus, trouvent souvent une place dans les valises des jeunes élèves.,C2
+5978, "La suite, cependant, est une autre histoire.",C2
+5979, "Une minorité de parents admettent que ces cahiers restent souvent inutilisés ou partiellement utilisés.",C2
+5980, "Ces données proviennent d'une étude rare, réalisée par un institut de recherche en éducation.",C2
+5981, "Quels sont les obstacles à l'utilisation complète de ces livrets attrayants ?",C2
+5982, "Un ancien professionnel de l'éducation nationale propose une alternative intéressante.",C2
+5983, "Il partage son expérience personnelle avec les cahiers de vacances traditionnels.",C2
+5984, "Il a remplacé les cahiers par des activités créatives avec ses enfants.",C2
+5985, "Il évoque un été de voyage en caravane, riche en découvertes et en créativité.",C2
+5986, "À chaque étape, ses enfants réalisaient des dessins mémorables du lieu visité.",C2
+5987, "Ces souvenirs ont été transformés en un jeu de société familial à la fin de l'été.",C2
+5988, "Ces jeux sont devenus un moyen exceptionnel d'échange et de narration.",C2
+5989, "Cette approche a permis de développer les compétences narratives de ses enfants de manière ludique.",C2
+5990, "Fort de cette expérience, il a continué à explorer des méthodes d'apprentissage amusantes.",C2
+5991, "Il a créé des fiches de logique pour stimuler la réflexion des enfants.",C2
+5992, "Il a observé que les enfants apprécient résoudre des énigmes, ce qui les rend plus réceptifs à l'apprentissage.",C2
+5993, "Les énigmes conçues pour l'école captivent également les enfants en vacances.",C2
+5994, "Y a-t-il une corrélation entre les activités cérébrales et les loisirs de plage ?",C1
+5995, "Les parents soucieux des résultats scolaires cherchent à éviter que les loisirs d'été n'effacent les acquis académiques.",C1
+5996, "Pour compenser les vacances, les familles investissent dans des cahiers d'exercices vendus en librairie.",C1
+5997, "Ces cahiers de vacances deviennent un incontournable dans les bagages des élèves.",C1
+5998, "L'utilisation effective de ces cahiers après l'achat reste cependant incertaine.",C1
+5999, "Une étude révèle que nombreux de ces cahiers sont peu ou partiellement utilisés.",C1
+6000, "L'étude menée par un institut d'éducation pointe un défi dans l'usage de ces outils éducatifs.",C1
+6001, "Qu'est-ce qui rend ces livrets pédagogiques difficiles à utiliser complètement ?",C1
+6002, "Un spécialiste en éducation suggère des méthodes d'apprentissage plus interactives et ludiques.",C1
+6003, "Il a remplacé les méthodes traditionnelles par des activités plus créatives pour ses enfants.",C1
+6004, "Il a délaissé les approches classiques au profit de méthodes plus engageantes.",C1
+6005, "Il se souvient d'un été enrichissant, marqué par des voyages en caravane.",C1
+6006, "À chaque étape de leur voyage, ses enfants réalisaient des dessins mémorables.",C1
+6007, "Ils ont ensuite transformé ces dessins en un jeu éducatif à la fin de l'été.",C1
+6008, "Cette méthode est devenue un excellent moyen de stimuler la narration chez les enfants.",C1
+6009, "Encouragé par ce succès, il a continué à développer des approches d'apprentissage amusantes.",C1
+6010, "Il a conçu des exercices de logique pour stimuler la réflexion des jeunes.",C1
+6011, "Ces énigmes, bien qu'initialement destinées à la classe, ont été populaires même durant les vacances.",C1
+6012, "Les services de livraison à vélo ont pris une importance majeure pendant la crise sanitaire.",C1
+6013, "Une analyse récente met en lumière les incertitudes du marché de la livraison alimentaire.",C1
+6014, "La crise sanitaire a entraîné des évolutions positives dans le système pénitentiaire.",C1
+6015, "Des libérations anticipées ont eu lieu dans les prisons pour prévenir la contagion.",C1
+6016, "Des professionnels ont demandé une vaccination étendue dans les établissements carcéraux.",C1
+6017, "La nonchalance face à la surpopulation carcérale contraste avec les directives européennes.",C1
+6018, "Le retour du dirigeant religieux après son voyage important a été marqué par une conférence de presse révélatrice.",C1
+6019, "Malgré des signes de fatigue, il a partagé ses expériences et ses impressions du voyage.",C1
+6020, "La réflexion sur l'éducation scientifique est déjà en cours depuis quelques années.",C1
+6021, "Depuis trois ans, l'accent est mis sur l'intégration des mathématiques avec les sciences et la technologie, et récemment sur les sciences cognitives en éducation à la santé.",C1
+6022, "Un projet innovant est prévu dans deux ans, en collaboration avec un institut de recherche en informatique.",C1
+6023, "Ce programme a connu un succès considérable dans les établissements scolaires.",C1
+6024, "Les machines sont contrôlables et obéissent aux instructions, mais beaucoup restent déconcertés par l'informatique.",C1
+6025, "L'intégration scolaire vise à créer des connexions entre différentes disciplines.",C1
+6026, "L'apprentissage du codage informatique, surtout en extra-scolaire, semble limité.",C1
+6027, "L'avantage de l'enseignement en classe réside dans les liens interdisciplinaires que les enseignants peuvent établir.",C1
+6028, "Explorer la différence entre les langues naturelles et informatiques est enrichissant en enseignement du français.",C1
+6029, "Étymologiquement, l'intelligence implique la capacité à établir des connexions.",C1
+6030, "Elle est perçue comme une militante passionnée pour l'écologie, connue pour sa voix forte.",C1
+6031, "Une figure controversée en politique, elle a la tâche ardue de valoriser l'action environnementale de son gouvernement pour les élections.",C1
+6032, "Nommée récemment, elle joue un rôle clé dans le débat sur la législation climatique à venir.",C1
+6033, "Ses déclarations récentes contrastent avec celles faites précédemment à un média écologiste.",C1
+6034, "Récemment, elle a pris position contre l'opinion de ses collègues sur les menus sans viande dans les écoles.",C1
+6035, "Il est crucial de continuer à renforcer les mesures pour l'égalité des chances et la lutte contre les discriminations.",C1
+6036, "Dans la lutte contre l'extrémisme, une stratégie répressive est mise en place contre l'islamisme radical.",C1
+6037, "Des actions continues sont menées dans ce domaine.",C1
+6038, "Depuis 2017, le projet 'protéger' s'est concrétisé avec des mesures significatives en éducation.",C1
+6039, "Les discussions avec les sympathisants de gauche révèlent l'importance de valoriser politiquement les réformes sociales.",C1
+6040, "Les biologistes prévoient une sixième extinction des espèces, épargnant principalement les animaux domestiques.",C1
+6041, "Certains auteurs de romans policiers cherchent à explorer les zones moins connues de la criminalité contemporaine.",C1
+6042, "Ce marché noir occupe la quatrième place dans le commerce illégal mondial.",C1
+6043, "En vingt ans, la disparition des ours asiatiques s'est accélérée, attirant les trafiquants vers les ours d'Amérique du Nord.",C1
+6044, "Un roman exceptionnel, 'Migrations', aborde des vies en péril avec un style remarquable.",C1
+6045, "Le roman se distingue par son style et la gestion habile des retours en arrière.",C1
+6046, "L'auteure retrace la disparition de plusieurs espèces à travers le parcours de ses personnages.",C1
+6047, "Une militante s'est engagée contre les violences obstétricales et gynécologiques, mais son approche de cette affaire est controversée.", C1
+6048, "Le débat ne se concentrait pas sur le consentement aux procédures médicales.",C1
+6049, "Une nouvelle décision municipale réduit significativement le budget alloué à l'opéra local.",C1
+6050, "Les coupes budgétaires visent à encourager la création artistique et l'accès à de nouveaux publics.",C1
+6051, "La décision répond aux recommandations sur les finances municipales liées à l'opéra.",C1
+6052, "Cette décision semble révéler une idéologie anti-opéra sous-jacente.",C1
+6053, "Le directeur de l'opéra et un sénateur critiquent la décision de l'exécutif écologiste.",C1
+6054, "La philosophie est de plus en plus utilisée contre un religieux envahissant, devenant presque une religion laïque en soi.",C1
+6055, "Comment un philosophe antique pouvait-il se lever la nuit pour chanter des hymnes à la Lune ?",C1
+6058, "Le lundi, Thomas reste toute la journée à l'école.",A2
+6059, "Souvent, le soir, il joue du violon, son instrument de musique préféré.",A2
+6060, "Il y a des régions où les élèves ne vont pas à l'école le mercredi matin.",A2
+6061, "Le mercredi après-midi, Thomas se détend en jouant au tennis dans son club sportif.",A2
+6062, "Le dimanche, il se repose et profite de cette journée pour faire ses devoirs.",A2
+6063, "Chère Marie, je t'écris depuis chez mes grands-parents en Bretagne où je passe de super vacances.",A2
+6064, "Mes grands-parents ont un grand jardin avec des poules, des lapins, et un cheval.",A2
+6065, "Nous avons la chance de manger des fruits et légumes frais du jardin chaque jour.",A2
+6066, "J'espère que tu t'amuses bien pendant tes vacances à Bordeaux.",A2
+6067, "À bientôt pour la rentrée des classes ! J'espère que tu seras en forme.",A2
+6068, "Lucas doit se dépêcher chaque matin pour arriver à l'heure à l'école.",A2
+6069, "Chaque matin, il commence par se brosser les dents avant de prendre sa douche.",A2
+6070, "Avant de partir, Lucas vérifie qu'il a bien rangé sa chambre.",A2
+6071, "Il doit étudier et se concentrer pendant plusieurs heures chaque matin à l'école.",A2
+6072, "La cloche de l'école sonne à midi, marquant la fin des cours du matin.",A2
+6073, "Les centres commerciaux sont animés en toutes saisons, attirant une foule nombreuse.",A2
+6074, "Même si vous ne voulez rien acheter, se promener dans un centre commercial est agréable.",A2
+6075, "C'est l'endroit parfait pour passer du temps en famille ou entre amis.",A2
+6076, "Clément et Manon ont faim et décident de cuisiner ensemble.",A2
+6077, "Ils vont au marché local pour acheter ce dont ils ont besoin pour le repas.",A2
+6078, "Ils préparent une quiche lorraine pour le déjeuner.",A2
+6079, "Le marché est assez éloigné, donc ils prennent la voiture pour s'y rendre.",A2
+6080, "Ils mettent leurs achats dans un grand sac avant de rentrer chez eux.",A2
+6081, "En France, on célèbre plusieurs jours fériés tout au long de l'année.",A2
+6082, "Ces jours-là, les gens ne travaillent généralement pas.",A2
+6083, "Les fêtes peuvent être de nature civile ou religieuse.",A2
+6084, "Pour certaines fêtes, on organise des feux d'artifice et des défilés.",A2
+6085, "Les familles se réunissent pour un repas festif la veille de Noël.",A2
+6086, "À Pâques, les enfants cherchent des œufs en chocolat cachés par les parents.",A2
+6087, "Noël est célébré le 25 décembre chaque année.",A2
+6088, "Quand j'étais enfant, je rêvais de devenir enseignant.",A2
+6089, "J'imaginais enseigner les mathématiques à des élèves curieux.",A2
+6090, "J'ai toujours admiré les professionnels de santé pour leur courage.",A2
+6091, "Enfant, je pensais qu'un chef pouvait manger des gâteaux tous les jours.",A2
+6092, "Plus tard, je me suis intéressé aux métiers de la justice.",A2
+6093, "Je rêvais de devenir avocat pour défendre les innocents.",A2
+6094, "Le monde réel est souvent différent de ce que l'on imagine.",A2
+6095, "À l'adolescence, je me suis passionné pour le métier de pompier.",A2
+6096, "Mes parents m'ont encouragé à devenir pompier volontaire.",A2
+6097, "J'ai concilié mes études et mon engagement chez les pompiers.",A2
+6098, "Ma véritable passion reste l'art et la peinture.",A2
+6099, "Je crée des œuvres d'art dans mon atelier personnel.",A2
+6100, "Mon ami Pierre est dentiste.",A2
+6101, "Pourtant, il avait peur du dentiste quand il était petit.",A2
+6102, "Chaque dimanche, nous allons au marché en famille.",A2
+6103, "C'est devenu une tradition pour notre famille.",A2
+6104, "En semaine, je me lève tôt et mon mari un peu plus tard.",A2
+6105, "Nos enfants se lèvent avant dix heures, mais pas trop tôt.",A2
+6106, "Nous prenons le petit-déjeuner ensemble avant d'aller au marché.",A2
+6107, "Nos enfants nous aident à choisir les fruits et légumes.",A2
+6108, "Nous achetons souvent une quinzaine de pommes.",A2
+6109, "Nous prenons aussi des carottes pour la semaine.",A2
+6110, "Notre fils aime nous aider à payer les courses.",A2
+6111, "Aujourd'hui, je vais vous parler de ma famille.",A2
+6112, "Je m'appelle Julien et j'habite à Lyon avec ma famille.",A2
+6113, "Je vais à l'école pendant que ma mère tient une boutique.",A2
+6114, "Pendant les vacances, nous visitons mes grands-parents à la campagne.",A2
+6115, "Mon grand-père nous gâte toujours avec des cadeaux.",A2
+6116, "Ma sœur aînée joue magnifiquement du violon.",A2
+6117, "Mon jeune frère sait déjà écrire son prénom.",A2
+6118, "Le soir, j'aide ma mère à promener notre chien.",A2
+6119, "Mon oncle dit que nous sommes des enfants adorables.",A2
+6120, "Je tiens beaucoup à toute ma famille.",A2
+6121, "Je viens d'emménager dans une nouvelle maison.",A2
+6122, "Ma maison a des volets bleus et un joli jardin.",A2
+6123, "J'ai un garage pour ma voiture et mon vélo.",A2
+6124, "Dans mon salon, il y a une grande table pour recevoir mes amis.",A2
+6125, "Mon chat aime se reposer sur le canapé.",A2
+6126, "La cuisine est mon endroit préféré dans la maison.",A2
+6127, "Je prépare souvent des desserts dans ma cuisine.",A2
+6128, "Ma chambre se trouve à l'étage.",A2
+6129, "Elle est située au bout du couloir.",A2
+6130, "Ma salle de bain a une belle vue sur le jardin.",A2
+6131, "Je me sens vraiment bien dans ma nouvelle maison.",A2
+6132, "Durant l'hiver, les maisons sont décorées de bougies et de sapins.",B1
+6133, "Les gens choisissent souvent des sapins en pot pour prolonger l'ambiance festive.",B1
+6134, "L'arbre est décoré de guirlandes lumineuses et de boules colorées, avec une étoile brillante au sommet.",B1
+6135, "Les cadeaux de Noël sont placés sous le sapin la veille pour être ouverts le lendemain matin.",B1
+6136, "Certaines familles laissent des biscuits et du lait pour remercier le Père Noël.",B1
+6137, "Pâques, célébrée le 21 avril, est une fête marquant le renouveau du printemps.",B1
+6138, "Les parents cachent des œufs en chocolat dans le jardin pour fêter Pâques.",B1
+6139, "La chasse aux œufs est un moment de joie pour petits et grands.",B1
+6140, "Les chocolats de Pâques prennent souvent la forme d'œufs, de lapins ou d'autres animaux.",B1
+6141, "Des familles décorent des œufs durs avec des couleurs vives et des motifs.",B1
+6142, "La maison de Julien est spacieuse avec de nombreuses pièces.",B1
+6143, "Au rez-de-chaussée se trouvent un salon, une salle à manger, une grande cuisine, et une salle de bain.",B1
+6144, "Julien a aménagé une véranda lumineuse avec une bibliothèque pour profiter de la vue sur le jardin.",B1
+6145, "Le sous-sol abrite une cave à vin.",B1
+6146, "Le premier étage comprend trois chambres à coucher.",B1
+6147, "Au deuxième étage se trouvent un bureau et deux autres chambres.",B1
+6148, "Dans son bureau, Julien a installé un vélo d'appartement et des équipements de sport.",B1
+6149, "Le jardin est équipé d'une balançoire et d'un barbecue près de la terrasse.",B1
+6150, "Des chats s'amusent souvent avec les feuilles dans le jardin.",B1
+6151, "Avec les prévisions météo, on peut planifier selon le temps qu'il fera.",B1
+6152, "Un grand soleil sur la carte météo annonce une journée chaude.",B1
+6153, "Un soleil entouré de nuages signifie peu de soleil et du vent.",B1
+6154, "Un ciel gris prévoit un temps couvert et maussade.",B1
+6155, "Des nuages avec de la pluie indiquent des averses et des risques d'orages.",B1
+6156, "Un arc-en-ciel peut apparaître lorsqu'il pleut alors que le soleil brille.",B1
+6157, "Des nuages avec de la neige annoncent une chute de neige et un temps très froid.",B1
+6158, "Des éclairs avec pluie signifient un risque d'orages violents.",B1
+6159, "La tour célèbre de Lyon est un symbole de la ville.",B1
+6160, "Construite pour une exposition universelle, elle représente l'ingénierie moderne.",B1
+6161, "La tour mesure précisément 312 mètres de haut.",B1
+6162, "Elle a été le plus haut monument du monde pendant plusieurs décennies.",B1
+6163, "Chaque année, des millions de touristes visitent cette tour.",B1
+6164, "Plus de 300 millions de personnes ont visité ce monument depuis sa construction.",B1
+6165, "Du sommet, on peut voir les principaux sites de la ville et le fleuve.",B1
+6166, "La tour se trouve dans un parc populaire pour les promenades.",B1
+6167, "En haut, il y a des antennes pour les médias et même des restaurants.",B1
+6168, "Le corps humain se compose d'une tête, d'un tronc et de quatre membres.",B1
+6169, "Le visage inclut deux yeux, un nez, une bouche et deux oreilles.",B1
+6170, "Les dents se trouvent à l'intérieur de la bouche.",B1
+6171, "Le tronc, relié à la tête par le cou, inclut le thorax et l'abdomen.",B1
+6172, "Le thorax abrite les poumons et le cœur.",B1
+6173, "L'abdomen contient des organes vitaux comme l'estomac et les intestins.",B1
+6174, "Le dos forme la partie arrière du tronc.",B1
+6175, "Les membres se divisent en deux bras et deux jambes.",B1
+6176, "Chaque bras se compose d'un avant-bras et d'une main avec cinq doigts.",B1
+6177, "Les jambes se composent d'une cuisse, d'une jambe et d'un pied avec cinq orteils.",B1
+6178, "Les articulations majeures sont l'épaule, le coude, le genou et la cheville.",B1
+6179, "Je n'ai qu'une journée pour explorer Marseille.",B1
+6180, "Je suis le parcours suggéré par Lucie, une amie locale.",B1
+6181, "Je commence par un petit-déjeuner dans un café près du Vieux-Port, avec de délicieux pains au chocolat.",B1
+6182, "Après une balade le long de la Corniche, je me retrouve face au magnifique Palais Longchamp.",B1
+6183, "Il y a de l'attente pour monter au sommet de la basilique Notre-Dame de la Garde, mais la vue sur la ville en vaut la peine.",B1
+6184, "L'après-midi, je flâne dans le parc Borély, un écrin de verdure en plein cœur de la ville.",B1
+6185, "Fatigué, je prends le tramway pour aller au quartier du Panier.",B1
+6186, "En visitant la cathédrale de la Major, je pense aux histoires du passé de Marseille.",B1
+6187, "Je prends ensuite le métro pour admirer l'architecture du Mucem.",B1
+6188, "Je me retrouve dans le quartier de la Joliette, connu pour ses boutiques chics et ses marques de luxe.",B1
+6189, "Ma journée se termine à la Canebière, avec ses cafés et ses rues animées.",B1
+6190, "Après le glamour du centre-ville, la Canebière offre une atmosphère plus décontractée.",B1
+6191, "Je choisis un restaurant pour déguster un bon repas après cette journée bien remplie.",B1
+6192, "Je passe mes vacances dans la région du Languedoc.",B1
+6193, "Ici, le temps est plutôt froid.",B1
+6194, "Hier, il y a eu une légère chute de neige.",B1
+6195, "J'explore le vieux quartier de Toulouse, rempli de charme.",B1
+6196, "Le marché local est un régal pour les yeux et les papilles.",B1
+6197, "Je découvre la spécialité locale : le cassoulet.",B1
+6198, "Les rues pavées du centre historique sont magnifiques.",B1
+6199, "Je m'arrête pour un café dans une petite place ensoleillée.",B1
+6200, "Le musée de la ville offre un aperçu fascinant de son histoire.",B1
+6201, "Je passe l'après-midi à me promener le long du canal du Midi.",B1
+6202, "Le coucher de soleil sur le fleuve est à couper le souffle.",B1
+6203, "Je termine ma journée par une balade nocturne dans les rues animées.",B1
+6204, "Demain, j'irai visiter les vignobles des environs.",B1
+6205, "J'ai hâte de goûter aux vins locaux et d'en apprendre plus sur leur production.",B1
+6206, "Je prévois aussi une randonnée dans les collines voisines.",B1
+6207, "Le paysage est si différent de ce que je connais chez moi.",B1
+6208, "Chaque coin de rue offre une nouvelle découverte.",B1
+6209, "Je me sens vraiment immergé dans la culture locale.",B1
+6210, "Les habitants sont accueillants et toujours prêts à partager leur savoir.",B1
+6211, "Je prends des tonnes de photos pour immortaliser ces moments.",B1
+6212, "Ce voyage est une véritable aventure pour moi.",B1
+6213, "Depuis le début du 21ème siècle, on observe une évolution des mentalités.",B2
+6214, "Bien qu'il soit possible de prendre sa voiture ou de covoiturer, les embouteillages et les problèmes de stationnement rendent l'heure d'arrivée incertaine.",B2
+6215, "Le bus est pratique, mais il dépend fortement de l'état du trafic.",B2
+6216, "Les métropoles offrent divers moyens de transport, chacun avec ses propres désavantages.",B2
+6217, "Il y a quelque chose qui me préoccupe, Emma.",B2
+6218, "Cela montre à quel point votre culture est avancée.",B2
+6219, "Concevoir une telle construction il y a des millénaires, c'était être visionnaire.",B2
+6220, "Mangez bien, car ce soir, notre festin sera mémorable !",B2
+6221, "Quand il s'agit d'argent, tout le monde est attentif dès qu'on parle de gros montants.",B2
+6222, "Je lui ferai une proposition qu'il ne pourra pas refuser.",B2
+6223, "Le monde se divise en deux catégories : ceux qui agissent et ceux qui subissent.",B2
+6224, "J'aime cette atmosphère particulière tôt le matin.",B2
+6225, "Les usines sont situées dans une ville industrielle du nord du pays.",B2
+6226, "Fondée au début du 20ème siècle, cette entreprise a été reprise par la génération suivante.",B2
+6227, "Le générique présente l'origine de l'univers depuis le Big Bang.",B2
+6228, "Dans Counter-Strike, les joueurs sont répartis en deux groupes : terroristes et antiterroristes.",B2
+6229, "En mode Bombe, les terroristes doivent poser une bombe ou éliminer tous les antiterroristes.",B2
+6230, "L'institution académique compte des milliers d'étudiants internationaux et un personnel dédié.",B2
+6231, "Walter White, professeur de chimie, vit avec sa famille dans une ville du sud-ouest.",B2
+6232, "Les objectifs varient selon le type de carte dans le jeu.",B2
+6233, "En mode Occasionnel, la victoire est déterminée après un certain nombre de manches.",B2
+6234, "À l'origine, les motos n'étaient pas fiables.",B2
+6235, "Elles étaient équipées de moteurs à vapeur et nécessitaient des pédales.",B2
+6236, "Les routes étaient en mauvais état, aggravant la fiabilité des motos.",B2
+6237, "Les interventions mécaniques étaient fréquentes sur ces véhicules.",B2
+6238, "L'utilisation militaire des motos a été renforcée pendant la Première Guerre mondiale.",B2
+6239, "Les motocyclettes sont devenues des alternatives abordables aux voitures.",B2
+6240, "Les préférences se sont orientées vers les voitures, plus confortables et protectrices.",B2
+6241, "La production de motos a presque disparu dans certaines régions.",B2
+6242, "La moto est devenue un symbole de liberté et parfois de contestation.",B2
+6243, "Des restrictions en termes de puissance et de permis de conduire sont apparues.",B2
+6244, "SpaceX développe des technologies pour atteindre ses objectifs ambitieux.",B2
+6245, "Fondée au début des années 2000, SpaceX vise l'innovation dans le secteur spatial.",B2
+6246, "Après son enfance dans une petite ville, il devient élève d'un artiste reconnu.",B2
+6247, "Ses premières œuvres importantes sont réalisées pour un mécène influent.",B2
+6248, "Il est d'abord célèbre en tant que peintre avant de se diversifier.",B2
+6249, "Sa mère serait issue d'une famille modeste selon les récits.",B2
+6250, "Il a eu des amis influents et reconnus dans leurs domaines.",B2
+6251, "Malgré ses amitiés, il garde sa vie personnelle privée.",B2
+6252, "Les transports en commun sont une alternative aux voitures en ville.",B2
+6253, "L'utilisation du vélo comme moyen de transport gagne en popularité.",B2
+6254, "Les pistes cyclables se multiplient pour faciliter les déplacements urbains.",B2
+6255, "Le covoiturage est encouragé pour réduire l'empreinte écologique.",B2
+6256, "Les applications mobiles facilitent le partage de trajets entre usagers.",B2
+6257, "Les embouteillages restent un défi majeur dans les grandes agglomérations.",B2
+6258, "Les plans de circulation sont repensés pour fluidifier le trafic.",B2
+6259, "La qualité de l'air en ville est une préoccupation croissante.",B2
+6260, "Les zones à faibles émissions se multiplient pour limiter la pollution.",B2
+6261, "La mobilité électrique est encouragée par des incitations gouvernementales.",B2
+6262, "Les transports publics sont modernisés pour améliorer l'expérience utilisateur.",B2
+6263, "Des efforts sont faits pour rendre les villes plus piétonnes.",B2
+6264, "La réduction de la vitesse en ville vise à améliorer la sécurité.",B2
+6265, "Les parcs et espaces verts sont valorisés pour offrir des zones de détente.",B2
+6266, "Des initiatives locales promeuvent la mobilité douce auprès des citoyens.",B2
+6267, "Les villes expérimentent avec des flottes de véhicules autonomes.",B2
+6268, "La technologie joue un rôle clé dans l'évolution des systèmes de transport.",B2
+6269, "Les solutions de mobilité doivent être inclusives et accessibles à tous.",B2
+6270, "La coopération entre les différentes formes de transport est essentielle.",B2
+6271, "La planification urbaine intègre désormais la mobilité comme un élément central.",B2
