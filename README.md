@@ -54,7 +54,8 @@ We tried `Logistic Regression()`, `RandomForestClassifier()`, `ExtraTreesClassif
 | F1-score| 0.5442| 0.4623 | 0.3432 | 0.5296 | 0.5715 | 0.5266 | 0.5478 | 0.5373 | 0.5481 | 0.5820 | 0.6503 | 
 | Accuracy | 0.5500 | 0.4708 | 0.3395 |	0.5354 | 0.5770 | 0.5312 | 0.5583 |	0.5437 | 0.5541 | 0.5854 | 0.5645 | 
 
- 
+![Confusionmatrix](/Confusionmatrix.png)
+Above is our confusion matrix for XGBoost model, it performs well in several categories, particularly in predicting categories 0 and 5. This matrix is a clear visual aid that shows us not just the model's accuracy but also where we can focus on improving its predictive capabilities. Overall, the majority of predictions are accurate, indicating a generally reliable model.
 #### 3.3.3 Prediction on the test set
 
 --- 
