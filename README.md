@@ -1,4 +1,4 @@
-# LingoRank the development of model for english speakers that predicts the difficulty of a French written text.
+# LingoRank the development of model for english speakers that predicts the difficulty of a French written text
   ![Logo](/Logo.png)
 ## Repository Index
 ---
