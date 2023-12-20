@@ -9,7 +9,8 @@
 - [streamlit.py](/streamlit.py) The Python file for presenting the user interface
 - [xgboost.pkl](/xgboost.pkl) Model with the (one of...) best performance for classification, used in streamlit
 - [predicted_difficulties(7)](/predicted_difficulties(7).csv) Outcome of the predicted difficulties using our best model
-- [data_science_junip_ipynb_.py](/data_science_junip_ipynb_.py) Our Juniper file
+- [data_science_junip_ipynb_.py](/data_science_junip_ipynb_.py) Our BERT Juniper file
+- [openai_nn_goodacc.py](/openai_nn_goodacc.py) Our Open AI text embedding juniper file
 
 
 ## Video
