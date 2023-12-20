@@ -8,6 +8,7 @@
 - [trainingandgenfixed.csv](/trainingandgenfixed.csv) Data for training with additional generated 1634 rows 
 - [streamlit.py](/streamlit.py) The Python file for presenting the user interface
 - [xgboost.pkl](/xgboost.pkl) Model with the (one of...) best performance for classification, used in streamlit
+- [predicted_difficulties (7)](/predicted_difficulties (7).csv) Outcome of the predicted difficulties using our best model
 
 
 ## Video
