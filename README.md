@@ -81,7 +81,8 @@ We managed to effectively extract predictions from our model by applying it to t
 After obtaining these predictions, we appended them to the test dataset, providing a clear and accessible way to review the model's output.
 
 In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings. The above results are saved to a CSV file `Name = 'predicted_difficulties.csv'`.
-![Kaggle_ranking](/Image/Kaggle_ranking.png)
-![Kaggle_ranking_two](/Image/Kaggle_ranking_two.png)
+![Results](/Image/Results.png)
+
 
 ## 4 Conclusion
+To conclude, while working on the project, we gained hands-on experience with different techniques for breaking down text, pulling out important details, and sorting information. The biggest takeaway from this work is how complex and tricky it is to use machine learning. Starting with preparing the data and picking out features, all the way to teaching the model and checking how well it does, every part required a lot of know-how and skill. These tools promise to be invaluable for new learners of the French language.
