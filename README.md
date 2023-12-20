@@ -1,5 +1,5 @@
 # LingoRank the development of model for english speakers that predicts the difficulty of a French written text
-  ![Logo](/Logo.png)
+  ![Logo](/Image/Logo.png)
 ## Repository Index
 ---
 - [training_data.csv](/training_data.csv) Data for training provided by Kaggle competition
@@ -71,3 +71,4 @@ We managed to effectively extract predictions from our model by applying it to t
 After obtaining these predictions, we appended them to the test dataset, providing a clear and accessible way to review the model's output.
 
 In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings
+![Снимок экрана 2023-12-20 в 16.36.06](/Снимок экрана 2023-12-20 в 16.36.06.png)
