@@ -37,13 +37,11 @@ Through our analysis of these tools, we realized the necessity of transitioning 
 
 In response to the limited size of the original training set, comprising 4799 rows, we undertook an initiative to augment this dataset by incorporating an additional 1634 rows (with relatively equal amount of sentences for each difficulty level), synthesized through precise and strategic prompts with ChatGPT. This augmentation aimed at enhancing the overall dataset to a comprehensive total of 6433 rows. The purpose of this expansion was to refine the accuracy and effectiveness of our predictive model. However, upon implementation of this augmented dataset, we observed that the anticipated significant improvements in model performance did not happen. Consequently, in the later stages of the competition, we made a decision to stop our pursuit of data augmentation as a method for enhancing the model's accuracy. We have ultimately came to a realisation, that it is not the quantity of mimicked data that counts, but its quality.
 
-### 3.3 (A) Processing
+### 3.3 (A)Processing 
 
---- 
+#### 3.3.1 Tokenization and Text Feature Extraction with BERT
 
-#### 3.3.1 Tokenization and Text Feature Extraction (Bert)
-
----
+Initially, for the purpose of model training, we established X and y variables by assigning X to the 'sentence' column and y to the 'difficulty' column of the training dataset. To facilitate this approach, we developed a function named bert_feature(data, **kwargs). This particular function is designed to take a list of text data as input and execute tokenization and encoding tasks on it.
 
 #### 3.3.2 Select Classification Model
 
@@ -60,7 +58,7 @@ We tried `Logistic Regression()`, `RandomForestClassifier()`, `ExtraTreesClassif
 Above is our confusion matrix for XGBoost model, it performs well in several categories, particularly in predicting categories 0 and 5. This matrix is a clear visual aid that shows us not just the model's accuracy but also where we can focus on improving its predictive capabilities. Overall, the majority of predictions are accurate, indicating a generally reliable model.
 #### 3.3.3 Prediction on the test set
 
---- 
+Using the BERT model in combination with an XGBoost classifier, we efficiently processed test set predictions and achieved a notable score of 0.554 in a Kaggle competition. This score reflects the effectiveness of the BERT-XGBoost integration in predicting text difficulty levels.
 
 ### 3.3 (B) Processing
 
@@ -82,7 +80,7 @@ We managed to effectively extract predictions from our model by applying it to t
 
 After obtaining these predictions, we appended them to the test dataset, providing a clear and accessible way to review the model's output.
 
-In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings. The above results are saved to a CSV file `Name = 'predicted_difficulties.csv'`.
+In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings. The above results are saved to a CSV file `Name = 'predicted_difficulties.csv'`. Unfortunately we haven't talked about OpenAI model in our video due to the short amount of time, but you can see the realted juniper file above
 ![Results](/Image/Results.png)
 
 
