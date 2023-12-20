@@ -58,7 +58,7 @@ def get_color(grade):
         return "red"
 
 
-def Difficulty_coloring(diff):
+def converter(diff):
       if diff == 0:
         return 'A1'
       elif diff == 1:
@@ -72,7 +72,7 @@ def Difficulty_coloring(diff):
       else:
         return 'C2'
 
-print(Difficulty_coloring(grade_sentence("Nous allons bien, nous habitons dans une petite maison ancienne avec un très beau jardin")))
+print(converter(grade_sentence("Nous allons bien, nous habitons dans une petite maison ancienne avec un très beau jardin")))
 
 
 
@@ -87,7 +87,7 @@ def main():
 
         grade = grade_sentence(sentence)
         st.subheader("CEFR Grade:")
-        st.subheader(Difficulty_coloring(grade), divider=get_color(Difficulty_coloring(grade)))
+        st.subheader(converter(grade), divider=get_color(converter(grade)))
 
     with st.chat_message("user"):
         st.write("Hello 👋")
