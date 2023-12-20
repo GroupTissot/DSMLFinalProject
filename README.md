@@ -70,6 +70,6 @@ We managed to effectively extract predictions from our model by applying it to t
 
 After obtaining these predictions, we appended them to the test dataset, providing a clear and accessible way to review the model's output.
 
-In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings
+In a Kaggle competition, we submitted our predictions to verify the model's performance against real-world standards. Over the course of the competition, we uploaded our submissions a total of 71 times. The highest score was 0.555, using the OpenAI text embeddings. The above results are saved to a CSV file `Name = 'predicted_difficulties.csv'`.
 ![Kaggle_ranking](/Image/Kaggle_ranking.png)
 ![Kaggle_ranking_two](/Image/Kaggle_ranking_two.png)
