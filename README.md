@@ -20,7 +20,7 @@ This project aims to develop a predictive model for English speakers learning Fr
 
 ## 2 Data preparation
 
---- 
+In response to the limited size of the original training set, comprising 4799 rows, we undertook an initiative to augment this dataset by incorporating an additional 1634 rows, synthesized through precise and strategic prompts with ChatGPT. This augmentation aimed at enhancing the overall dataset to a comprehensive total of 6433 rows. The purpose of this expansion was to refine the accuracy and effectiveness of our predictive model. However, upon implementation of this augmented dataset, we observed that the anticipated significant improvements in model performance did not happen. Consequently, in the later stages of the competition, we made a decision to stop our pursuit of data augmentation as a method for enhancing the model's accuracy.
 
 ### 3.3 Processiong
 
