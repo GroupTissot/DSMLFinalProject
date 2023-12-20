@@ -1,5 +1,5 @@
 # LingoRank the development of model for english speakers that predicts the difficulty of a French written text
-  ![Logo](/Image/Logo.png)
+  ![Logo](Image/Logo.png)
 ## Repository Index
 ---
 - [training_data.csv](/training_data.csv) Data for training provided by Kaggle competition
