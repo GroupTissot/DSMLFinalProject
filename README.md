@@ -7,7 +7,7 @@
 - [frenchbacktranslated.csv](/frenchbacktranslated.csv) French back translate for data augmentation
 - [trainingandgenfixed.csv](/trainingandgenfixed.csv) Data for training with additional generated 1634 rows 
 - [streamlit.py](/streamlit.py) The Python file for presenting the user interface
-- [xgboost.pkl](/xgboost.pkl) Model with the (one of the...) best performance for classification, used in streamlit
+- [xgboost.pkl](/xgboost.pkl) Model with the (one of...) best performance for classification, used in streamlit
 
 
 ## Video
