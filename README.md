@@ -10,8 +10,6 @@
 
 ## 1 Project overview
 
----
-
 ### 1.1 Problem description
 
 Language learners often struggle to find texts that match their proficiency level. A beginner (A1) might be overwhelmed by advanced (B2) texts, impeding learning progress. The ideal learning material should contain mostly familiar words, with a few new terms for gradual improvement.
