@@ -43,9 +43,9 @@ In response to the limited size of the original training set, comprising 4799 ro
 
 Initially, for the purpose of model training, we established X and y variables by assigning X to the 'sentence' column and y to the 'difficulty' column of the training dataset. To facilitate this approach, we developed a function named bert_feature(data, **kwargs). This particular function is designed to take a list of text data as input and execute tokenization and encoding tasks on it.
 
-#### 3.3.2 Select Classification Model
+#### 3.3.2 Classification Model
 
-We tried `Logistic Regression()`, `RandomForestClassifier()`, `ExtraTreesClassifier()`, `KNeighborsClassifier()`, `LGBMClassifier()` and `XGBClassifier()`, six classifiers in turn for training. The accuracies of ExtraTrees, LightGBM, RandomForest, and XGBoost classifiers are significantly higher than those of others. For these four classifiers, we further selected the optimal parameters. Finally, the 'evaluate' function is called to display the performance of these models. The comparison results are as follows:
+We tried `Logistic Regression()`, `RandomForestClassifier()`, `ExtraTreesClassifier()`, `KNeighborsClassifier()`, `LGBMClassifier()` and `XGBClassifier()`, six classifiers in turn for training. The accuracies of ExtraTrees, LightGBM, RandomForest, and XGBoost classifiers are significantly higher than those of others. For these four classifiers.
 
 |  | Logistic Regression | KNN | Decision Tree | Random Forest | Random Forest Refined | Extra Trees | Extra Trees Refined | LightGBM | LightGBM Refined | XGBoost | XGBoost Refined | 
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -67,7 +67,7 @@ In this section, the method for converting text data into embeddings using OpenA
 
 This function is crucial for transforming raw text into a format that the machine learning model can interpret and analyze.
 
-#### 3.3.2 Selection of Classification Model
+#### 3.3.2 Classification Model
 In our study, following the extraction of feature representations via OpenAI's API, we focused on training these features using a neural network model implemented with Keras, using ReLU  activation functions. 
 
 To conduct this evaluation, the dataset was systematically divided into two distinct subsets: a training set and a test set. Specifically, the dataset was split such that X_train and y_train comprised the training set, encompassing the feature vectors and their corresponding difficulty labels. Conversely, X_test and y_test formed the test set, reserved for validating the model's performance. This split was configured with a test size parameter of 0.2, ensuring that 20% of the data was allocated for testing, while the remaining 80% was used for training. 
