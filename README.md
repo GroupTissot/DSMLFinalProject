@@ -45,7 +45,16 @@ In response to the limited size of the original training set, comprising 4799 ro
 
 #### 3.3.2 Select Classification Model
 
- --- 
+We tried `SVC()`, `Logistic Regression()`, `RandomForestClassifier()`, `ExtraTreesClassifier()`, `KNeighborsClassifier()`, `LGBMClassifier()`, `XGBClassifier()`, and `CatBoostClassifier()` eight classifiers in turn for training. The accuracies of ExtraTrees, LightGBM, RandomForest, and XGBoost classifiers are significantly higher than those of others. For these four classifiers, we further selected the optimal parameters using GridSearch. Finally, the 'evaluate' function is called to display the performance of these models. The comparison results are as follows:
+
+|  | Logistic Regression | KNN | Decision Tree | Random Forest | Random Forest Refined | Extra Trees | Extra Trees Refined | LightGBM | LightGBM (best para) | XGBoost | XGBoost Refined | 
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Precision | 0.5433 |	0.3499 | 0.3499| 0.5315 | 0.5737 | 0.5295 | 0.5510 | 0.5360 | 0.55470 | 0.5822 | 0.5616 | 
+| Recall| 0.5519 | 0.4728 | 0.3429 | 0.5341 | 0.5752 | 0.5311 | 0.5569 | 0.5433 | 0.5543 | 0.5866 | 0.5645 |
+| F1-score| 0.5442| 0.4623 | 0.3432 | 0.5296 | 0.5715 | 0.5266 | 0.5478 | 0.5373 | 0.5481 | 0.5820 | 0.6503 | 
+| Accuracy | 0.5500 | 0.4708 | 0.3395 |	0.5354 | 0.5770 | 0.5312 | 0.5583 |	0.5437 | 0.5541 | 0.5854 | 0.5645 | 
+
+It can be observed that the Extra Trees classifier with optimal parameters has the best performance `etc_model_best = ExtraTreesClassifier(min_samples_leaf=1, min_samples_split=2, n_estimators=300, random_state=42)`. It has the highest precision and accuracy, as well as F1 score. However, we also sacrificed recall rate to some extent.
  
 #### 3.3.3 Prediction on the test set
 
