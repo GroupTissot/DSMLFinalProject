@@ -14,7 +14,7 @@
 
 
 ## Video
---- Link to video --
+https://youtu.be/aGbtxoFECEk
 
 ## 1 Project overview
 
