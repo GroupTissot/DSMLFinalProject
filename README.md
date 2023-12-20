@@ -2,11 +2,11 @@
   
 ## Repository Index
 ---
-[training_data.csv](/training_data.csv) Data for training provided by Kaggle competition
-[unlabelled_test_data.csv](/unlabelled_test_data.csv) The unlablled data for final prediction
-[frenchbacktranslated.csv](/frenchbacktranslated.csv) French back translate for data augmentation
-[trainingandgenfixed.csv](/trainingandgenfixed.csv) Data for training with additional generated 1634 rows 
-[streamlit.py](/streamlit.py) The Python file for presenting the user interface
+- [training_data.csv](/training_data.csv) Data for training provided by Kaggle competition
+- [unlabelled_test_data.csv](/unlabelled_test_data.csv) The unlablled data for final prediction
+- [frenchbacktranslated.csv](/frenchbacktranslated.csv) French back translate for data augmentation
+- [trainingandgenfixed.csv](/trainingandgenfixed.csv) Data for training with additional generated 1634 rows 
+- [streamlit.py](/streamlit.py) The Python file for presenting the user interface
 
 
 
