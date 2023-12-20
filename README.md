@@ -18,7 +18,7 @@ Language learners often struggle to find texts that match their proficiency leve
 
 This project aims to develop a predictive model for English speakers learning French, designed to assess the difficulty level of French written texts. The model will categorize texts according to the Common European Framework of Reference for Languages (CEFR) levels, ranging from A1 (beginner) to C2 (advanced).
 
-### 1.3 Thnking as a linguist 
+### 1.3 Thinking as a linguist 
 
 ## 2 Data preparation
 
